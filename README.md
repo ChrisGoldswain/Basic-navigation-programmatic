@@ -1,6 +1,6 @@
 # Basic-navigation-programmatic
 
-## Descrption:
+## Description:
 A project getting the hang of handling basic view controller navigation programmatically. 
 Only the initial view controller is set up using storyboards, while both other view controllers are set up programmatically.
 On the first view controller, the "present" button presents a second view controller modally, and the "push" button pushes a third view controller onto the navigation stack. 
